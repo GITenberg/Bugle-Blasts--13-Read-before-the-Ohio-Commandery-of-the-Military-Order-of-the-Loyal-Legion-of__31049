@@ -1,0 +1,30 @@
+_repo: Bugle-Blasts--13-Read-before-the-Ohio-Commandery-of-the-Military-Order-of-the-Loyal-Legion-of__31049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crane, William E. (William Edmund)
+    gutenberg_agent_id: '34977'
+    url: http://www.gutenberg.org/2009/agents/34977
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Ohio Cavalry Regiment, 4th (1861-1865)'
+- !lcsh 'Crane, William E. (William Edmund)'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Ohio -- History -- Civil War, 1861-1865 -- Regimental histories'
+title: "Bugle Blasts\r\nRead before the Ohio Commandery of the Military Order of the\
+  \ Loyal Legion of the United States"
+url: http://www.gutenberg.org/ebooks/31049
