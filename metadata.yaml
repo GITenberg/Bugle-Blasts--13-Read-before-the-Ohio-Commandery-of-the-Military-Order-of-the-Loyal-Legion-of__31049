@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34977'
     url: http://www.gutenberg.org/2009/agents/34977
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31049#Bugle-Blasts--13-Read-before-the-Ohio-Commandery-of-the-Military-Order-of-the-Loyal-Legion-of_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-01-23'
 gutenberg_type: Text
